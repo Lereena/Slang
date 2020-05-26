@@ -11,7 +11,7 @@ namespace SimpleCompiler
     {
         public static void Main()
         {
-            string FileName = @"../../../b.txt";
+            string FileName = @"../../../a.txt";
             try
             {
                 string Text = File.ReadAllText(FileName);
